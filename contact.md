@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contact
+nav_order: 2
+description: "Pull Assistant is a github application that statically analyses pull requests and provides you all necessary information to perform code reviews faster and with a confidence."
+permalink: /contact
+---
+
 ## Test
 
 You can use the [editor on GitHub](https://github.com/pullassistant/pullassistant.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

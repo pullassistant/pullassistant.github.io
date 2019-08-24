@@ -6,11 +6,15 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-## Welcome to GitHub Pages
+# Focus on writing good documentation
+{: .fs-9 }
 
-You can use the [editor on GitHub](https://github.com/pullassistant/pullassistant.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 ### Markdown
 

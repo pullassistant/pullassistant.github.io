@@ -20,8 +20,12 @@ Pull Assistant is a github application that statically analyses pull requests an
 ![](https://pullassistant.com/assets/screenshots/screenshot_commit_by_commit.png)
 ![](https://pullassistant.com/assets/screenshots/screenshot_with_all_changes.png)
 
+---
+
 ## Squashing commits
 ![](https://pullassistant.com/assets/screenshots/screenshot_squash.png)
+
+---
 
 ## Warnings
 ![](https://pullassistant.com/assets/screenshots/screenshot_warning.png)

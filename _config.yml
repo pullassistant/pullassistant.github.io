@@ -5,3 +5,6 @@ ga_tracking: UA-145781573-1
 
 title: Pull Assistant
 description: A Jekyll theme for documentation
+aux_links:
+    "Pull Assistant github app":
+      - "https://github.com/apps/pull-assistant"

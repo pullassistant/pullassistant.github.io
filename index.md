@@ -27,8 +27,11 @@ Pull Assistant suggests the best approach to do the code review. Review **commit
 ## Squashing commits
 ![](https://pullassistant.com/assets/screenshots/screenshot_squash.png)
 
+Commits can squashed.
 
 ---
 
 ## Warnings
 ![](https://pullassistant.com/assets/screenshots/screenshot_warning.png)
+
+Save time, don't review unnecesary changes. Check warnings.

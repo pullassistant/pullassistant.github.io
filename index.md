@@ -16,14 +16,17 @@ Pull Assistant is a github application that statically analyses pull requests an
 
 ---
 
-## Optimal code review
+## Always optimal code review
 ![](https://pullassistant.com/assets/screenshots/screenshot_commit_by_commit.png)
 ![](https://pullassistant.com/assets/screenshots/screenshot_with_all_changes.png)
+
+Pull Assistant suggests the best approach to do the code review. Review *commit by commit* or *with all changes* to avoid code reviewing unnecessary changes that don't contribute to the final solution.
 
 ---
 
 ## Squashing commits
 ![](https://pullassistant.com/assets/screenshots/screenshot_squash.png)
+
 
 ---
 
